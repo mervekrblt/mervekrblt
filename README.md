@@ -3,30 +3,26 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap">
-<p >
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Homo+sapiens;I+am+Merve+Karabulut;Self+taught+developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30">
 </p>
 
-
-<div>
-<img  src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpin.anime.com%2Fwp-content%2Fuploads%2F2015%2F07%2FLuna-is-a-talking-cat-advisor-to-Usagi-Tsukino-and-a-computer-genius-sailor-moon-animated-gif.gif&f=1&nofb=1">
-</div> 
-
+<div align="center">
+<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpin.anime.com%2Fwp-content%2Fuploads%2F2015%2F07%2FLuna-is-a-talking-cat-advisor-to-Usagi-Tsukino-and-a-computer-genius-sailor-moon-animated-gif.gif&f=1&nofb=1">
 </div>
 
+
+
  <!--Statistics-->
-
-<div>
-
-<div>
+<div align="center">
+  <div align="center">
 <a href="https://github.com/mervekrblt/github-profile-views-counter">
     <img align="center" src="https://komarev.com/ghpvc/?username=mervekrblt&color=f75c7e">
 </a>
 <a href="https://github.com/mervekrblt?tab=followers">
     <img align="center" style="border-radius: 3px" src="https://img.shields.io/github/followers/mervekrblt?style=flat-square&color=f75c7e">
 </a>
-</div>
+  </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mervekrblt&show_icons=true&theme=radical" />
@@ -40,7 +36,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervekrblt&layout=compact&theme=radical" />
 </a>
-
 </div>
 
 <hr />
