@@ -17,28 +17,28 @@
 
  <!--Statistics-->
 
-<div style="margin-top: 2rem ; display: flex; flex-direction: column; align-items: center">
+<div>
 
-<div style="width: 100%; display: flex; flex-direction: row; justify-content: space-evenly">
+<div>
 <a href="https://github.com/mervekrblt/github-profile-views-counter">
-    <img  src="https://komarev.com/ghpvc/?username=mervekrblt&color=f75c7e">
+    <img align="center" src="https://komarev.com/ghpvc/?username=mervekrblt&color=f75c7e">
 </a>
 <a href="https://github.com/mervekrblt?tab=followers">
-    <img  style="border-radius: 3px" src="https://img.shields.io/github/followers/mervekrblt?style=flat-square&color=f75c7e">
+    <img align="center" style="border-radius: 3px" src="https://img.shields.io/github/followers/mervekrblt?style=flat-square&color=f75c7e">
 </a>
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mervekrblt&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mervekrblt&show_icons=true&theme=radical" />
 </a>
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mervekrblt&theme=radical&date_format=j%20M%5B%20Y%5D" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mervekrblt&theme=radical&date_format=j%20M%5B%20Y%5D" />
 </a>
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=mervekrblt&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mervekrblt&show_icons=true&theme=radical" />
 </div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervekrblt&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervekrblt&layout=compact&theme=radical" />
 </a>
 
 </div>
