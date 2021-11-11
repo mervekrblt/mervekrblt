@@ -54,4 +54,4 @@
 </table>-->
 
 <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=mervekrblt&theme=xcode" /></div>
-<div  align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
+<div  align="center"> <img src="https://github.com/mervekrblt/mervekrblt/blob/output/github-contribution-grid-snake.gif" /></div>
